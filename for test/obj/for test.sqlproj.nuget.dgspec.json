@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\BoyuHu\\source\\repos\\omBoyu\\testdatabase\\for test\\for test.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\BoyuHu\\source\\repos\\omBoyu\\testdatabase\\for test\\for test.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\BoyuHu\\source\\repos\\omBoyu\\testdatabase\\for test\\for test.sqlproj",
+        "projectName": "for test",
+        "projectPath": "c:\\Users\\BoyuHu\\source\\repos\\omBoyu\\testdatabase\\for test\\for test.sqlproj",
+        "packagesPath": "C:\\Users\\BoyuHu\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\BoyuHu\\source\\repos\\omBoyu\\testdatabase\\for test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BoyuHu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/OmniRisks/OM.Nuget/_packaging/OM.Common.Nuget/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/OmniRisks/OM.Nuget/_packaging/OM.Core.NuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
